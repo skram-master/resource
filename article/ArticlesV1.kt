@@ -1,6 +1,6 @@
 package com.skramMaster.resource.article
 
-import io.ktor.resources.*
+import io.ktor.resources.Resource
 import kotlinx.serialization.Serializable
 
 @Serializable
