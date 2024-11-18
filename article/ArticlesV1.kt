@@ -1,4 +1,4 @@
-package com.skramMaster.resource.article
+package com.skram_master.resource.article
 
 import io.ktor.resources.Resource
 import kotlinx.serialization.Serializable
