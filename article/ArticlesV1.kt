@@ -4,7 +4,7 @@ import io.ktor.resources.Resource
 import kotlinx.serialization.Serializable
 
 @Serializable
-@Resource("/articles")
+@Resource("api/v1/articles")
 class ArticlesV1 {
 
     @Serializable
